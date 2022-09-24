@@ -8,4 +8,4 @@ def mengetik(s):
 
        time.sleep(random.random() * 0.3)
 
-mengetik('Jangan Lupa Selalu Beraykur<Eror21 \nselamat Menonton\nTerimaKasih.')
+mengetik('Jangan Lupa Selalu Bersyukur<Eror21 \nselamat Menonton\nTerimaKasih.')
